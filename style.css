@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #EEE;
+    font-family: font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: #e4f9f5;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* Header Start*/
+header{
+}
+.pro-image{
+    height: 130px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.head-name{
+    float: left;
+    padding: 40px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.contact{
+    float: right;
+    padding: 50px;
+}
+.contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.contact a:hover{
+    text-decoration:underline;
+    color: tomato;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: solid rgba(0, 20, 24, 0.815) 3px;
+    width: 100%;
+    margin: 10px auto;
+    border-bottom: none;
+}
+/* Header End*/
+/*Main Strat*/
+/* Personal Info Start*/
+#personal-info{
+    
+}
+.content{
+
+}
+.left-content{
+    width: 30%;
+    float: left;
+}
+.right-content{
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid rgb(54, 54, 54) 2px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+/*Work Experience Start*/
+/*Education Start*/
+.part-1{
+    width: 50%;
+    float: left;
+}
+.part-{
+    width: 50%;
+    float: left;
+}
+/*Footer Start*/
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+.bottom-container a{
+    font-size: 18px;
+    font-weight:bolder;
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: white;
+    margin: 20px;
+}
